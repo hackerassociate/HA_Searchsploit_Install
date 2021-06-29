@@ -40,7 +40,9 @@ sudo searchsploit -h
 
 ```
 
+```
+Thanks & Regards
+Harshad Shah
+Founder & CEO, Hacker Associate
 
-***Thanks & Regards***
-***Harshad Shah***
-***Founder & CEO, Hacker Associate***
+```
