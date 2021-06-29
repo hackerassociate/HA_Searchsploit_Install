@@ -5,7 +5,7 @@ echo -e "\n
 -----------------------------------------------------------------------------------------------------
 			        Welcome to Offensive IOT by Harshad!
                             
-              Harsh BOT Ready for Vulnerability Searching. 
+              			Harsh BOT Ready for Vulnerability Searching. 
 					
 			        #Author = Harshad Shah
                    
